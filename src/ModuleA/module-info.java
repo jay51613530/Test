@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jchoudha
+ *
+ */
+module ModuleA {
+}
